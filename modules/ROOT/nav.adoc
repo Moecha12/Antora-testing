@@ -1,1 +1,2 @@
-* xref:overview.adoc[Overview]
+* xref:getst.adoc[Getting Started]
+* xref:overview.adoc[what do you want to know ?]
