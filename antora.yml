@@ -1,0 +1,7 @@
+name: SysDICE
+title: SysDICEv
+version: main
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc
+
