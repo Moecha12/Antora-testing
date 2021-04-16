@@ -1,5 +1,5 @@
-name: SysDICE
-title: SysDICEv
+name: Antora-Testing
+title: 1st_Test
 version: main
 nav:
 - modules/ROOT/nav.adoc
