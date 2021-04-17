@@ -1,4 +1,0 @@
-* xref:index.adoc[Start_Page]
-* xref:1st_Page.adoc[1st_Page]
-* xref:2nd_Page.adoc[2nd_Page]
-* xref:3rd_Page.adoc[3rd_Page]
