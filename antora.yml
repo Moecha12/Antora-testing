@@ -2,5 +2,5 @@ name: Antora-Testing
 title: 1st_Test
 version: main
 nav:
-- modules/module-one/nav.adoc
+- modules/module_one/nav.adoc
 
