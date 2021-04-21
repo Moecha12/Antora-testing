@@ -1,5 +1,5 @@
 name: Antora-Testing
-title: 1st_Test
+title: Table of Contents
 version: main
 nav:
 - modules/ROOT/nav.adoc
