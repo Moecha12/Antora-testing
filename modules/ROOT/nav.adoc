@@ -1,1 +1,1 @@
-* xref:Default.adoc[Start_Page]
+* xref:index.adoc[Start_Page]
