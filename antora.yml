@@ -1,6 +1,6 @@
 name: Version 1.0
 title: Table of Content
-version: main
+version: v1.0
 nav:
 - modules/ROOT/nav.adoc
 - modules/module_one/nav.adoc
