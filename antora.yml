@@ -1,5 +1,5 @@
 name: Table of Content
-title: 
+title: Table of Content
 version: main
 nav:
 - modules/ROOT/nav.adoc
