@@ -1,6 +1,6 @@
 name: V-2.0
 title: Table of Content 
-version: v-2.0
+version: '2.0'
 nav:
 - modules/ROOT/nav.adoc
 - modules/module_one/nav.adoc
