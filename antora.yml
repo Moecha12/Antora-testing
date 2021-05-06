@@ -1,5 +1,5 @@
-name: Version-1.0
-title: Table of Content Version-1.0
+name: sysdice-v1.0.1
+title: Sysdice
 version: '1.1'
 nav:
 - modules/ROOT/nav.adoc
