@@ -1,7 +1,7 @@
 name: sysdice-v1.0
-title: SysDICE
-version: 1.0
+title: SysDICE1
+version: '1.0'
 nav:
-- modules/ROOT
+- modules/ROOT/nav.adoc
 - modules/module_one/nav.adoc
 
