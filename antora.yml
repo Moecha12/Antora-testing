@@ -1,5 +1,5 @@
 name: sysdice-v1.0.1
-title: Sysdice
+title: SysDICE
 version: '1.1'
 nav:
 - modules/ROOT/nav.adoc
